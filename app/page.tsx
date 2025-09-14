@@ -1,4 +1,4 @@
-import { Header } from './components/Header';
+// import { Header } from './components/Header';
 import { HeroSection } from './components/HeroSection';
 import { AudienceSection } from './components/AudienceSection';
 import { WaitlistSection } from './components/WaitlistSection';

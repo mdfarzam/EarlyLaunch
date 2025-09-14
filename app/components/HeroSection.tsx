@@ -1,4 +1,4 @@
-import { Play } from "lucide-react";
+
 
 export const HeroSection = () => {
   return (
@@ -6,11 +6,11 @@ export const HeroSection = () => {
       <div className="container mx-auto px-4 relative w-full">
         <div className="flex flex-col md:flex-row items-center">
           <div className="w-full flex flex-col gap-6">
-            <div className="flex w-fit bg-primary-200 rounded-full px-4 py-1.5  text-sm font-medium text-primary-800 ">
+            <div className="flex w-fit bg-primary-200 rounded-full px-4 py-1.5  text-sm  text-primary-800 ">
               Easy waitlist. solid product
             </div>
 
-            <h1 className="text-6xl font-medium text-[#181E1F] leading-[1.2] tracking-[-2.3px] ">
+            <h1 className="text-6xl font-medium text-[#181E1F] leading-[1.2] tracking-[-2.3px]">
               Focus on building. <br /> We'll gather the crowd.
             </h1>
 
